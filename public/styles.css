@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  width: 100vw;
+  padding: 20px;
+  margin: 0;
+}
+
+.scene {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  border: 3px solid #000000;
+}
+
+canvas {
+  max-width: 100%;
+}
