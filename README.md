@@ -20,7 +20,7 @@ Matter is the invisible world of objects that move based on physics. PixiJS is t
 Clone this repository and install its dependencies:
 
 ```bash
-git clone https://github.com/rollup/rollup-starter-app
+git clone https://github.com/celsowhite/matter-pixi.git
 cd matter-pixi
 npm install
 ```
